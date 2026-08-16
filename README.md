@@ -1,33 +1,39 @@
-"Hola, soy Osvaldo, Ingeniero Biomédico especializado en Análisis de Datos para el sector salud. Cuento con formación intensiva en el desarrollo de soluciones prácticas mediante Python, SQL, Power BI y estadística avanzada.
+# ¡Hola! Soy Osvaldo 👋
+**Ingeniero Biomédico & Data Analyst | Healthcare & Business Intelligence**
 
-Mi propuesta de valor radica en la convergencia entre la ingeniería clínica y la ciencia de datos, permitiéndome transformar información compleja en soluciones estratégicas de alto valor para la toma de decisiones.
+Ingeniero Biomédico especializado en Análisis de Datos para el sector salud. Cuento con formación intensiva en el desarrollo de soluciones analíticas end-to-end utilizando Python, SQL, Power BI y estadística avanzada.
 
-Mis herramientas clave:
+Mi propuesta de valor radica en la **convergencia entre la ingeniería clínica y la ciencia de datos**, transformando información compleja en insights estratégicos y soluciones de alto valor para la toma de decisiones.
 
-🐍 Python: Limpieza profunda, análisis estadístico y automatización.
+---
 
-🗄️ SQL: Extracción estratégica y manipulación de bases de datos.
+### 🛠️ Tech Stack & Herramientas Clave
 
-📊 Power BI: Creación de narrativas visuales y dashboards dinámicos."
+* **🐍 Python:** Limpieza de datos (EDA), análisis estadístico y automatización de procesos.
+* **🗄️ SQL:** Extracción estratégica, consultas complejas y manipulación de bases de datos relacionales.
+* **📊 Power BI:** Modelado de datos, creación de narrativas visuales (Data Storytelling) y dashboards dinámicos.
 
-🚀 Proyectos
-1. Optimización de Datos de Ventas (Retail/Walmart)
-Situación: El dataset original presentaba inconsistencias en formatos de fecha y falta de integridad referencial entre tablas.
+---
 
-Tarea: Normalizar la estructura de datos y centralizar los KPIs críticos para la gestión operativa.
+### 🚀 Proyectos Destacados
 
-Acción: Implementé procesos de ETL para estandarizar fechas y consolidar columnas clave (tipo, tamaño, departamento). Diseñé un dashboard interactivo en Excel/Power BI con segmentación dinámica por departamentos.
+#### 1. Optimización de Datos de Ventas (Retail)
+* **Situación:** El dataset inicial presentaba inconsistencias en formatos de fecha y fallas de integridad referencial entre tablas.
+* **Tarea:** Normalizar la estructura de datos y centralizar los KPIs críticos para la gestión operativa.
+* **Acción:** Implementé un pipeline ETL para estandarizar formatos y consolidar variables clave (tipo, tamaño, departamento). Diseñé un dashboard interactivo en Power BI con segmentación dinámica por áreas.
+* **Resultado:** Visualización en tiempo real de indicadores operativos, eliminación del error humano en cálculos manuales y facilitación del análisis ejecutivo.
 
-Resultado: Logré una visualización en tiempo real de los indicadores de rendimiento, eliminando errores de cálculo manual y facilitando el análisis ejecutivo mediante un README documentado.
+#### 2. Análisis de Movilidad y Productividad en LATAM
+* **Situación:** Existencia de datos fragmentados sobre urbanismo y desarrollo económico en ciudades latinoamericanas.
+* **Tarea:** Integrar un ecosistema de datos unificado para evaluar correlaciones entre movilidad urbana y eficiencia económica.
+* **Acción:** Desarrollé un pipeline de limpieza y validación de tipos de datos en Jupyter Notebook, aplicando filtros geográficos y métricas agregadas por ciudad-año.
+* **Resultado:** Dataset consolidado listo para modelado predictivo y documentación estructurada del Análisis Exploratorio de Datos (EDA) para garantizar reproducibilidad.
 
-2. Análisis de Movilidad y Productividad en LATAM
-Situación: Existencia de datos fragmentados sobre urbanismo y economía en ciudades latinoamericanas.
+---
 
-Tarea: Crear un ecosistema de datos unificado para identificar correlaciones entre movilidad y eficiencia económica.
+### 📧 Contacto y Colaboración
 
-Acción: Desarrollé un pipeline de limpieza y validación de tipos de datos en Jupyter Notebook. Apliqué filtros geográficos específicos y calculé indicadores agregados por ciudad-año.
+¡Estoy abierto a nuevas oportunidades, proyectos y colaboraciones en el sector salud y analítica de datos!
 
-Resultado: Generé un dataset final listo para modelado predictivo, documentando cada fase del análisis exploratorio (EDA) para asegurar la reproducibilidad del estudio.
-
-📧 Contacto
-"Puedes contactarme a través de LinkedIn o vía correo electrónico en osvaldo2mj2@gmail.com. Estoy abierto a nuevas oportunidades y colaboraciones que generen un impacto positivo en la industria."
+* 📩 **Correo electrónico:** [osvaldo2mj2@gmail.com](mailto:osvaldo2mj2@gmail.com)
+* 💼 **LinkedIn:** [Tu Perfil de LinkedIn](https://www.linkedin.com)
