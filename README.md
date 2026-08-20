@@ -1,4 +1,5 @@
 # ¡Hola! Soy Osvaldo 👋
+
 **Ingeniero Biomédico & Data Analyst | Healthcare & Business Intelligence**
 
 Ingeniero Biomédico especializado en Análisis de Datos para el sector salud. Cuento con formación intensiva en el desarrollo de soluciones analíticas end-to-end utilizando Python, SQL, Power BI y estadística avanzada.
@@ -8,10 +9,9 @@ Mi propuesta de valor radica en la **convergencia entre la ingeniería clínica 
 ---
 
 ### 🛠️ Tech Stack & Herramientas Clave
-
-* **🐍 Python:** Limpieza de datos (EDA), análisis estadístico y automatización de procesos.
-* **🗄️ SQL:** Extracción estratégica, consultas complejas y manipulación de bases de datos relacionales.
-* **📊 Power BI:** Modelado de datos, creación de narrativas visuales (Data Storytelling) y dashboards dinámicos.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C94C?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
